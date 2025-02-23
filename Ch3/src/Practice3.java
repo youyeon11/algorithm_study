@@ -3,8 +3,6 @@
 
 // 구간 합 구하기는 구간 합 공식을 이용하기 : S[j] - S[i-1]
 
-import java.util.Scanner;
-
 //public class Practice3 {
 //
 //    public static void main(String[] args) {
